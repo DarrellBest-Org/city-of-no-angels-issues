@@ -21,7 +21,6 @@ body:
       label: Platform
       options:
         - Windows
-        - macOS
         - Linux
         - Steam Deck
         - Other
@@ -32,8 +31,8 @@ body:
     attributes:
       label: Store
       options:
+        - GitHub release
         - Steam
-        - itch.io
         - Other
     validations:
       required: true

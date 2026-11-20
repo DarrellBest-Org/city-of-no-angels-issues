@@ -21,7 +21,6 @@ body:
       label: Platform
       options:
         - Windows
-        - macOS
         - Linux
         - Steam Deck
         - Other
