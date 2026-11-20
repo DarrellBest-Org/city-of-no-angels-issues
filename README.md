@@ -4,10 +4,10 @@ This repository is for bug reports and feedback for [City of No Angels](https://
 
 ## How to file a good report
 
-Open a [new issue](https://github.com/DarrellBest/city-of-no-angels-issues/issues/new/choose) and pick the form that fits. Please include:
+The quickest way is **REPORT A BUG OR IDEA** on the game's main menu or pause screen: it opens a filled-in form here with your version, computer and recent log. Or open a [new issue](https://github.com/DarrellBest-Org/city-of-no-angels-issues/issues/new/choose) and pick the form that fits. Please include:
 
 - The game version
-- Your operating system (Windows, macOS, Linux, or Steam Deck)
+- Your operating system (Windows, Linux, or Steam Deck)
 - The steps that led to the problem
 - What you expected, and what actually happened
 - Logs and screenshots, if you have them
